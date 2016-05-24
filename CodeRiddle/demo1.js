@@ -13,4 +13,7 @@ console.log(foo2(010));
 
 console.log(0.2 + 0.4);
 
-console.log([4,[3,2]][1][0]);
+console.log([4, [3, 2]][1][0]);
+
+console.log(0.1 * 10);
+console.log(0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1);
